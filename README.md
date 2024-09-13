@@ -3,7 +3,7 @@
 Code for Vogler et al., "Direct piriform-to-auditory cortical projections shape auditory-olfactory integration"
 
 Requires Python 3 (Anaconda Distribution) <br />
-Source data found in Dryad: https://doi.org/10.5061/dryad.dncjsxm7c <br />
+Source data found in Dryad: <br />
 Requires source data to be in same folder as Jupyter notebook(s) <br />
 Creates Figure pdfs in same folder <br />
 
